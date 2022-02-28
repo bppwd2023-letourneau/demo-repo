@@ -1,1 +1,1 @@
-# demo-repo
+# Example Git Repository
